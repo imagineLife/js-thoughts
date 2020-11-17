@@ -47,4 +47,4 @@ typeof v //returns... "object"?!
 - ... not REALLY a primitive type
 
 ### bug 3
-- 
+- can use v.isArray() to see if it is an array
